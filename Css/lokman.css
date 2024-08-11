@@ -1450,7 +1450,7 @@ li::marker {
 .stats {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
-  background-image: url(imgs/stats.jpg);
+  background-image: url(//imgs/stats.jpg);
   background-size: cover;
   position: relative;
 }
