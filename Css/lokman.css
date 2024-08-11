@@ -1450,7 +1450,7 @@ li::marker {
 .stats {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
-  background-image: url(/imgs/stats.jpg);
+  background-image: url(imgs/stats.jpg);
   background-size: cover;
   position: relative;
 }
@@ -1549,7 +1549,7 @@ li::marker {
   }
 }
 .disc .dis-img {
-  background-image: url(/imgs/discount-background1.jpg);
+  background-image: url(imgs/discount-background1.jpg);
   background-size: cover;
   color: white;
   padding: 50px;
@@ -1558,13 +1558,13 @@ li::marker {
 }
 @keyframes dis {
   0% {
-    background-image: url(/imgs/discount-background1.jpg);
+    background-image: url(imgs/discount-background1.jpg);
   }
   50% {
-    background-image: url(/imgs/discount-background2.jpg);
+    background-image: url(imgs/discount-background2.jpg);
   }
   100% {
-    background-image: url(/imgs/discount-background1.jpg);
+    background-image: url(imgs/discount-background1.jpg);
   }
 }
 .disc .dis-img::before {
